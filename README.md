@@ -10,7 +10,7 @@ This file is the main entry point of the application. It sets up the Flask web s
 
 - **Routes:**
   - `/login`: Handles user login.
-  - `/main`: (Work in progress) Handles requests to the main user portal.
+  - `/main`: Handles requests to the main user portal.
   - `/join_project`: Allows a user to join a project.
   - `/add_user`: Adds a new user to the database.
   - `/get_user_projects_list`: Retrieves the list of projects a user is part of.
