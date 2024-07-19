@@ -78,6 +78,6 @@ This file contains functions for managing users in the database.
    - Defines routes that handle HTTP requests and interact with `usersDB.py`, `projectsDB.py`, and `hardwareDB.py` to perform various operations.
    - Routes call appropriate functions from the respective database modules to manage users, projects, and hardware sets.
 
-##Client side
+## Client side
 
 1. Design choices are up to you, but an example directory structure has been provided. 
