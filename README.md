@@ -1,5 +1,5 @@
 # AppDevProjectTemplate
-Template for MIS385N Project
+Template for MIS385N (Advanced Programming and App Development) Team Project
 # Project Overview
 
 This project is a web application built using Flask and MongoDB, and React. The application manages users, projects, and hardware sets, allowing users to log in, join projects, and request hardware. The backend consists of four main Python files that handle different aspects of the application's functionality.
